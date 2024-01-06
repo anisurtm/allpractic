@@ -1,0 +1,13 @@
+.submit-text{
+    display: flex;
+    background-color: rgb(205, 206, 208);
+    width: 17%;
+}
+.input1{
+    background-color: rgb(205, 206, 208);
+    border: none;
+    outline: none;
+}
+.li1{
+    list-style: none;
+}
